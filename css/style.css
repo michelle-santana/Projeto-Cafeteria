@@ -16,7 +16,7 @@ body{
 /* menu*/
 
 .menu{
-    background:  #252525 ;
+    background:  #c17139 ;
     padding: 20px 0;
 }
 .menu-container{
@@ -321,7 +321,7 @@ h2.produtos-mineiro::before{
 
   /*footer*/
   .footer{
-      background: #d6d3c8;
+      background: #c17139;
       padding: 40px 0;
   }
   .footer-container{

@@ -1,4 +1,28 @@
 /*reset*/
-body, p, h1, h2, ul{
+body, p, h1, h2, ul, li{
     margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style: none;
+}
+body{
+    font-family: Georgia, serif;
+    color: #252525;
+}
+*{
+    box-sizing: border-box; 
+}
+
+/*Menu*/
+.header-info{
+    font-size: 0.875em;
+    background: #c17139;
+    padding: 5px 0;
+    color: #fff;
+    text-align: center;
+}
+.header-logo img{
+    display: block;
+    margin: 0 auto;
 }
