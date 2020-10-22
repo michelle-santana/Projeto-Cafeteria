@@ -70,7 +70,6 @@ a.menu-logo{
     float: left;
     margin: 40px 60px 60px 60px;
     margin-bottom: 20px;
-    
 
 } 
 
@@ -133,9 +132,9 @@ h2.produtos-mineiro::before{
   .footer img{
       float: right;
       display: block;
-      margin: 0 10px;
+      margin: 0 auto;
 
-  }
+  } 
 
   /*Responsividade*/
   @media only screen and (max-width: 739px){
