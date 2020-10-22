@@ -165,12 +165,3 @@ h2.produtos-mineiro::before{
      }
 
  }
- @media (min-width: 740px) and (max-width: 980px){
-    .produtos img{
-      max-width: 720px;
-    }
-   
-    .produtos img{
-        width: 340px;
-    }
-}
